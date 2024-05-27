@@ -28,7 +28,7 @@
 
 ### Method
 
-##### Cook the frittata
+##### Cook
 
 1. Pre-heat the oven to 200C.
 2. In the mixing bowl, whisk the eggs and egg whites.
@@ -45,7 +45,7 @@
 8. When cooked, remove from the oven and allow to cool.
 9. When cool, cut the frittata.
 
-##### Build the bagel
+##### Build
 
 1. Slice the bagels in half.
 2. On one side, add:
@@ -59,6 +59,6 @@
 - Store in the freezer for no more than 3 months.
 - Defrost overnight.
 
-### Re-heating
+##### Re-heating
 
 - Add the foil-wrapped bagel an oven or air fryer at 200C for 5-6 minutes.
