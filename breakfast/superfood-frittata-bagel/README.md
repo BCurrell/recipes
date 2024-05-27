@@ -2,7 +2,7 @@
 
 ### Original Inspiration
 
-- (Emily English, TikTok)[https://www.tiktok.com/@emthenutritionist/video/7189340857596644614]
+- [Emily English, TikTok](https://www.tiktok.com/@emthenutritionist/video/7189340857596644614)
 
 ### Equipment
 
