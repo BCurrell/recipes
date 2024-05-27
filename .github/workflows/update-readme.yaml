@@ -1,0 +1,19 @@
+name: 'Update README with recipe URLs'
+on:
+  push:
+    branches:
+      - 'main'
+
+jobs:
+  update-readme:
+    runs-on: 'ubuntu-latest'
+    steps:
+      - name: 'Check out repository'
+        uses: 'actions/checkout@v4'
+      - name: 'Run update-readme.py and commit changes'
+        run: |
+          python3 ./update-readme.py
+          git add README.md
+          git commit -m "Update README with recipe URLs"
+      - name: 'Create pull request'
+        uses: 'peter-evans/create-pull-request@v6'
