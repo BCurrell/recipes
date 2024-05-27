@@ -9,3 +9,18 @@ There is a rough template to follow for any recipe in `/_template/`:
 
 - [Porridge](/breakfast/porridge/)
 - [Superfood Frittata Bagel](/breakfast/superfood-frittata-bagel/)
+
+### Lunch
+
+### Snack
+
+### Main Dish
+
+- [Quiche](/main/quiche/)
+
+### Side Dish
+
+### Dessert
+
+### Misc
+
