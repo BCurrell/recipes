@@ -18,7 +18,7 @@
 
 ### Method
 
-##### Cook the frittata
+##### Cook
 
 1. Add oats and milk to a bowl, then mix.
 2. Put the bowl in the microwave and cook for the following times:
