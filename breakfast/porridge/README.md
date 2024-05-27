@@ -1,5 +1,13 @@
 # Porridge
 
+### Tags
+
+- Breakfast
+- Oats
+- Hot
+- Vegetarian
+- Vegan
+
 ### Original Inspiration
 
 - N/A
