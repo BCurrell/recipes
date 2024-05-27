@@ -1,5 +1,12 @@
 # Superfood Frittata Bagel
 
+### Tags
+
+- Breakfast
+- Eggs
+- Hot
+- Vegetarian
+
 ### Original Inspiration
 
 - [Emily English, TikTok](https://www.tiktok.com/@emthenutritionist/video/7189340857596644614)
