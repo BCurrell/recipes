@@ -16,6 +16,7 @@ There is a rough template to follow for any recipe in `/_template/`:
 
 ### Main Dish
 
+- [Pork Escalope](/main/pork-escalope/)
 - [Quiche](/main/quiche/)
 
 ### Side Dish
