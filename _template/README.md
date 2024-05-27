@@ -33,6 +33,6 @@
 - Store in the freezer for no more than 3 months.
 - Defrost overnight.
 
-### Re-heating
+##### Re-heating
 
 - Re-heating steps
