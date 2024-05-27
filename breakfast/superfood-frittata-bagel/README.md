@@ -15,7 +15,7 @@
 - 4* Bagels
     - Alternatively, English Muffins
 - 2* Eggs
-- 500g Egg Whites
+- 250g Egg Whites
     - Alternatively, 4* Eggs
 - Fresh Parsley
 - Fresh Basil
