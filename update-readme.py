@@ -41,5 +41,6 @@ with open(FILE, "w") as file:
 	write_section(file, "Lunch", "./lunch")
 	write_section(file, "Snack", "./snack")
 	write_section(file, "Dinner", "./dinner")
+	write_section(file, "Side Dish", "./side")
 	write_section(file, "Dessert", "./dessert")
 	write_section(file, "Misc", "./misc")
