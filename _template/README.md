@@ -1,5 +1,9 @@
 # {{ name }}
 
+### Tags
+
+- List of tags
+
 ### Original Inspiration
 
 - [{{ credit }}]({{ url }})
